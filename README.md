@@ -1,5 +1,9 @@
 # Week 1 Working with Code
-Here you can find: 
+## Class Exerices : Biography of my team mates
 
-* Short profile of Yana, click [here](https://github.com/adekimpianna/MyFirstRepository/blob/master/Yana.md)
-* That is all
+* Myself, [Yana](https://github.com/adekimpianna/MyFirstRepository/blob/master/Yana.md)
+* [Boam](https://github.com/adekimpianna/MyFirstRepository/blob/master/Boam.md)
+* [Feruz](https://github.com/adekimpianna/MyFirstRepository/blob/master/Feruz.md)
+* [Harun](https://github.com/adekimpianna/MyFirstRepository/blob/master/Harun.md)
+* [Miroslav](https://github.com/adekimpianna/MyFirstRepository/blob/master/Harun.md)
+* [Murielle](https://github.com/adekimpianna/MyFirstRepository/blob/master/Murielle.md)
