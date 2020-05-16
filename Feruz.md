@@ -6,5 +6,5 @@ Location: Kortrijk
 
 ![feruz](https://ca.slack-edge.com/T91PPTG9H-URRS55AJX-857954f26fda-512)
 
-[:arrow_left:](https://github.com/adekimpianna/MyFirstRepository/blob/master/Boam.md)  
-[:arrow_right:](https://github.com/adekimpianna/MyFirstRepository/blob/master/Harun.md)
+[Previous](Boam.md)  
+[Next](Harun.md)

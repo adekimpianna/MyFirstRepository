@@ -10,5 +10,5 @@ Location: Boortmeerbeek (a small town in between Mechelen and Leuven)
 >_Balinese sate lilit  
 ![Yana](2020-05-10-20-05-00.jpeg)
 
-[Back to read me](https://github.com/adekimpianna/MyFirstRepository/blob/master/README.md)  
-[:arrow_right:](https://github.com/adekimpianna/MyFirstRepository/blob/master/Boam.md)
+[Back to read me](README.md)  
+[Next](Boam.md)
